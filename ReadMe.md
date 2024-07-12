@@ -1,4 +1,5 @@
-#React Weather App
+# React Weather App
+
 This is a simple weather app built with React. It uses the OpenWeatherMap API to get weather.
 
 - View current weather conditions based on location.
