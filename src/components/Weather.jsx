@@ -67,7 +67,7 @@ const Weather = () => {
   };
 
   useEffect(() => {
-    search("California");
+    search("Patan");
   }, []);
 
   return (
