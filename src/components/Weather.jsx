@@ -29,7 +29,7 @@ const Weather = () => {
     "13n": snow_icon,
   };
 
-  const key = "9c13ac6c9b789d016aa98a629b4ee284";
+  const key = "----add your api key here---";
 
   const search = async (city) => {
     if (!city.trim()) {
